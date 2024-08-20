@@ -7,14 +7,14 @@
 
 
 :root {
-    --cor-de-fundo: #0d0d0e;
+    --cor-de-fundo: #f4f4ff;
     --branco: #4aeb0038;
     --laranja: #ffffff;
-    --azul-degrade: linear-gradient(97.54deg, #d8b61e 35.49%, #326589 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #d8b61e 35.49%, #6958ff 165.37%);
     --fonte-principal: "Poppins";
     --azul: #395200;
     --fonte-secundario: "Josefin Sans";
-    --preto: #000000;
+    --preto: #f00000;
     --cinza: #8896a5;
     --cinza-claro: #edf3ec;
 }
@@ -24,4 +24,3 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
-}
